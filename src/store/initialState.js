@@ -1,6 +1,6 @@
 const initialState = {
-    date_1: "value...",
-    date_2: "value..."
+    value_1: false,
+    value_2: false
 };
 
 export default initialState;
