@@ -7,10 +7,10 @@ import COMPONENT_1_W from './components/wrapComponents/component_1_w';
 import COMPONENT_2_W from './components/wrapComponents/component_2_w';
 
 ReactDOM.render(
-    <Provider store={store}>
-        <COMPONENT_1_W />
-        <COMPONENT_2_W />
-    </Provider>, 
+	<Provider store={store}>
+		<COMPONENT_1_W />
+		<COMPONENT_2_W />
+	</Provider>,
 document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
