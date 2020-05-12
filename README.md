@@ -1,7 +1,8 @@
-<div align="center">
+<div>
   <img width="700" height="200" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png">
-  <h1>Basic react redux app</h1>
+  <h1  align="center">Basic react redux app</h1>
   <p>A Predictable State Container for JS Apps</p>
+	<p>A simple React Redux application for example.</p>
   <p>Why you should use redux?</p>
   <ul>
 	  <li>Predictable</li>
@@ -10,6 +11,9 @@
 	  <li>Flexible</li>
   </ul>
 </div>
+
+<p>see my <a href="https://habr.com/ru/post/498860/">article</a> on Redux and React-redux on habr<p>
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
