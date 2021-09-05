@@ -1,7 +1,23 @@
 {
   "name": "basical-react-redux-app",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
+  "author": "Ruslan Valimuhametov",
+  "license": "MIT",
+  "description": "Example React-redux application",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ruslan101/Basical-react-redux-app"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "redux",
+    "js"
+  ],
+  "bugs": {
+    "url": "https://github.com/Ruslan101/Basical-react-redux-app/issues"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
